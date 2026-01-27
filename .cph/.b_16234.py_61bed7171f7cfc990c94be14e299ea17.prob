@@ -1,0 +1,1 @@
+{"name":"Local: b_16234","url":"c:\\Users\\uesr\\Desktop\\파이썬_코테\\b_16234.py","tests":[{"id":1765973127879,"input":"4 10 50\n10 100 20 90\n80 100 60 70\n70 20 30 40\n50 20 100 10","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\uesr\\Desktop\\파이썬_코테\\b_16234.py","group":"local","local":true}
